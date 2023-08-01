@@ -1,5 +1,5 @@
 # Masters-Thesis-code
-Code for the simulations for my masters thesis
+Code for the simulations for my masters thesis: Modeling and Dynamics of Cortical Neural Networks
 
 The code is organized as follows:
 network.py defines the Network object, which holds structual information and the history of a simulated neural network.
